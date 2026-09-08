@@ -20,16 +20,6 @@ Built for metropolitan cities in Pakistan, SIRENS combines **Google Gemini, Genk
 
 ---
 
-## 🔗 Links
-
-| Resource | Link |
-|---|---|
-| 📱 Android App | Coming soon |
-| 🖥️ Web Dashboard | Coming soon |
-| 🎥 Demo Video | [Watch Demo](YOUR_YOUTUBE_LINK_HERE) |
-
----
-
 # 🚨 The Problem
 
 Pakistan's metropolitan cities face frequent localized crises such as:
