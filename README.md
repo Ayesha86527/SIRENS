@@ -12,14 +12,6 @@ Built for metropolitan cities in Pakistan, SIRENS combines **Google Gemini, Genk
 
 ---
 
-## 🎥 Demo
-
-[![Watch Demo](https://img.shields.io/badge/▶_Watch_Demo-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_LINK_HERE)
-
-> A short walkthrough of the complete SIRENS workflow, from incoming crisis signals to AI-driven response and citizen verification.
-
----
-
 # 🚨 The Problem
 
 Pakistan's metropolitan cities face frequent localized crises such as:
