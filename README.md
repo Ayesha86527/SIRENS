@@ -79,6 +79,9 @@ Impact Evaluation
      │
      ▼
 Updated Crisis State
+```
+
+---
 
 ## 🤖 Multi-Agent System
 
